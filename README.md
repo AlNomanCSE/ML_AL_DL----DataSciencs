@@ -102,7 +102,7 @@ Machine Learning (ML) encompasses a broad range of approaches<strong>(Algorithms
   - Isolation Forest:
   - One-Class SVM
 
-# 🧠🤖🖥️🧮 Artificial Intelligence (AI)
+# 🧠🤖🧮 Artificial Intelligence (AI)
 
 Artificial Intelligence (AI) encompasses a broad range of approaches<strong>(Algorithms) </strong> aimed at creating systems that can perform tasks requiring human-like intelligence. These approaches can be categorized into several key areas, each focusing on different aspects of intelligence and problem-solving. Here are some major approaches in AI:
 
@@ -151,3 +151,85 @@ Artificial Intelligence (AI) encompasses a broad range of approaches<strong>(Alg
 - [Hybrid Approaches](#license)
   - Neuro-Symbolic Systems
   - Hybrid Reinforcement Learning
+
+# 🧠🤖🖥️🧮 Data Science
+
+Data Science is a multidisciplinary field that involves extracting insights and knowledge from data using a combination of various techniques and algorithms. Here are some key approaches and <strong>(Algorithms) </strong> used in Data Science:
+
+- [Data Preprocessing]()
+  - Data Cleaning
+  - Data Transformation
+  - Feature Engineering
+- [Exploratory Data Analysis (EDA)]()
+  - Descriptive Statistics
+  - Data Visualization
+  - Correlation Analysis
+- [Supervised Learning](#project-title)
+  - Linear Regression
+  - Logistic Regression
+  - Support Vector Machines (SVM)
+  - Decision Trees
+  - Random Forests
+  - K-Nearest Neighbors (KNN)
+  - Neural Networks
+- [Unsupervised Learning](#quick-start-demo)
+
+  - K-Means Clustering:
+  - Hierarchical Clustering
+  - Principal Component Analysis (PCA)
+  - t-Distributed Stochastic Neighbor Embedding (t-SNE)
+  - Association Rule Learning
+    - Apriori Algorithm
+
+- [Semi-Supervised Learning](#table-of-contents)
+
+  - Self-Training
+  - Co-Training
+
+- [Reinforcement Learning](#installation)
+
+  - Q-Learning
+  - Deep Q-Networks (DQN)
+  - Policy Gradient Methods
+  - Actor-Critic Methods
+
+- [Dimensionality Reduction](#usage)
+
+  - Principal Component Analysis (PCA)
+  - Linear Discriminant Analysis (LDA)
+  - t-SNE
+
+- [Anomaly Detection](#license)
+  - Isolation Forest:
+  - One-Class SVM
+- [Ensemble Learning](#development)
+  - Bagging
+    - Random Forests
+  - Boosting
+    - AdaBoost
+    - Gradient Boosting
+  - Stacking
+- [Natural Language Processing (NLP)]()
+
+  - Tokenization
+  - Named Entity Recognition (NER)
+  - Sentiment Analysis
+  - Topic Modeling
+    - Latent Dirichlet Allocation (LDA)
+
+- [Time Series Analysis]()
+
+  - ARIMA (AutoRegressive Integrated Moving Average)
+  - Exponential Smoothing
+  - LSTM (Long Short-Term Memory) Networks
+
+- [Bayesian Methods](#license)
+  - Naive Bayes
+  - Bayesian Networks
+- [Graph-Based Methods](#license)
+  - Graph Neural Networks (GNN)
+  - PageRank
+- [Optimization]()
+
+  - Gradient Descent
+  - Genetic Algorithms
