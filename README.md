@@ -7,6 +7,7 @@
  </h3>
 
 <img src="https://www.deviq.io/hs-fs/hubfs/DevIQ%20website%20active%20images/ai-ml-dl-ds-venn-diagram-deviq.png?width=449&name=ai-ml-dl-ds-venn-diagram-deviq.png" width="100%">
+
 <img src="https://studyopedia.com/wp-content/uploads/2022/12/Data-Science-VS-Machine-Learning-VS-Artificial-Intelligence-vs-Deep-Learning-Studyopedia.png" width="100%">
 
 <hr/>
@@ -233,3 +234,5 @@ Data Science is a multidisciplinary field that involves extracting insights and 
 
   - Gradient Descent
   - Genetic Algorithms
+
+<img src="https://cdn.educba.com/academy/wp-content/uploads/2020/01/Types-of-Computer-Languages.jpg.webp" width="100%">
