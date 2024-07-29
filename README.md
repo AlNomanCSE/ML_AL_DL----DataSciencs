@@ -236,3 +236,8 @@ Data Science is a multidisciplinary field that involves extracting insights and 
   - Genetic Algorithms
 
 <img src="https://cdn.educba.com/academy/wp-content/uploads/2020/01/Types-of-Computer-Languages.jpg.webp" width="100%">
+
+<h1 align="center"> Python in Use </h1>
+
+<img src="https://i0.wp.com/ajaytech.co/wp-content/uploads/2019/05/python_standard_libraries-1.png?w=960&ssl=1" width="100%">
+<img src="https://datarundown.com/wp-content/uploads/2022/04/Top-10-Python-Libraries-3.png" width="100%">
